@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.print("Estudiante " + args[0] + " : " );
+        System.out.print("Estudiante " + args[0] + " : " ); //Aquí se mostrará mi nombre y la resolución del programa.
         System.out.println(veredicto(args[1], args[2]));
 
     }
